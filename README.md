@@ -6,9 +6,9 @@ https://www.kaggle.com/virenbr11/pothole-and-plain-rode-images
 
 # BANGKIT CAPSTONE PROJECT
 Para6tamol Team - B21-CAP0094 : 
-a0070649@bangkit.academy 
-a1011402@bangkit.academy 
-m0070664@bangkit.academy 
-m0070669@bangkit.academy 
-c0070653@bangkit.academy 
+a0070649@bangkit.academy, 
+a1011402@bangkit.academy,
+m0070664@bangkit.academy, 
+m0070669@bangkit.academy, 
+c0070653@bangkit.academy, 
 c0070655@bangkit.academy
