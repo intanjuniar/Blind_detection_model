@@ -1,5 +1,5 @@
 # Blind_detection_model
-ML odel using tensorflow with Convolutional Neural Network (CNN) to classify potholes and plain roads and then detect the image inputed by the user through the resnet50 architecture by producing 2 outputs for plain roads and potholes. 
+ML model using tensorflow with Convolutional Neural Network (CNN) to classify potholes and plain roads and then detect the image inputed by the user through the resnet50 architecture by producing 2 outputs for plain roads and potholes. 
 
 # Dataset :
 https://www.kaggle.com/virenbr11/pothole-and-plain-rode-images 
